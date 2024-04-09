@@ -1,4 +1,4 @@
-# Narratives at Conflict: Computational Analysis of News Framing in Russia-Backed Multilingual Disinformation Campaigns
+# Narratives at Conflict: Computational Analysis of News Framing in Multilingual Disinformation Campaigns
 
 The code for Master's Thesis "Narratives at Conflict: Computational Analysis of News Framing in Russia-Backed Multilingual Disinformation Campaigns".
 The main code for the analysis is hosted in Colab Notebooks, linked to this repository. In case of discrepancies in the code, the Colab version is be preffered.
